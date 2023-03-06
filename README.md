@@ -1,1 +1,1 @@
-# SOLIMAX API
+# Cheetah PAd API
