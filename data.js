@@ -20,8 +20,8 @@ const ActivePools = [
         percentage: "100.00%",
         tokenDistribution: "24th Dec, 2022 (UTC + 1:00)",
         tokenPrice: "1 BUSD = 166.66 SLM",
-        tokenName: "SoliMax",
-        tokenSymbol: "SLM",
+        tokenName: "TEST",
+        tokenSymbol: "TEST",
         tokenDecimal: "18",
         tokenAddress: "0xb1957BDbA889686EbdE631DF970ecE6A7571A1B6",
         tokenTotalSupply: "1,000,000,000",
@@ -39,7 +39,7 @@ const ActivePools = [
 const UpcomingPools = [
        {
         id: 1,
-        tag: "completed",
+        tag: "active",
         logo: "Logo",
         tags: ["23/11/2023"],
         projectTitle: "Project 3",
