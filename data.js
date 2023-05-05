@@ -11,7 +11,7 @@ const ActivePools = [
         maxAllocation: "$2500",
         access: "Public",
         totalRaised: "100234.45 DAI",
-        chain: 4002,
+        chain: 512512,
         status: "Filled",
         dateOfCompletion: "23rd Oct, 2022",
         currentBalance: 87079007.22,
