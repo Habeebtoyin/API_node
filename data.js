@@ -1,7 +1,7 @@
 const ActivePools = [
        {
         id: 1,
-        tag: "completed",
+        tag: "active",
         logo: "Logo",
         tags: ["23/11/2023"],
         projectTitle: "Project 3",
