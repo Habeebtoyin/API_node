@@ -1,19 +1,7 @@
 const ActivePools = [
-       {
-        id: 1,
-        tag: "active",
-        logo: "Logo",
-        tags: ["1st Phase", "41% complete"],
-        projectTitle: "Project 1",
-        projectDescription:
-          "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed doeiusmod tempor incididunt ut labore et dolore magna aliqua. Utenim ad minim",
-        minAllocation: "$10",
-        maxAllocation: "$10",
-        access: "Public",
-        totalRaised: "100234.45 ETH",
-        chain: 1442,
-        status: "Active",
-        dateOfCompletion: "15th  july, 2023",
+{
+
+        dateOfCompletion: "18th july, 2023",
         currentBalance: 87079007.22,
         targetBalance: 87083333.33,
         SLMAmount: "67079007.22/87083333.33 ETH",
@@ -24,7 +12,7 @@ const ActivePools = [
         tokenSymbol: "$TORM",
         tokenDecimal: "18",
         tokenAddress: "0xCD1FfF5FcDE62bEFDc1a7E3Ddf6E166fA24f7B98", //projrct's token contract address
-        launchpadContract: "0x8Aba0303FB217BAce26eFa0c2F3eF76085E685C7",
+        launchpadContract: "0x93C4a972b32Ec4a60F44614D62e04e76753e0b59",
         tokenTotalSupply: "10,000,000,000",
         aboutProject:
             "Menzy is a passive move-to-earn project with additional features such as compete to earn and activity classification based on machine vision. These segments each contain reward mechanisms that grant users MNZ tokens once activated as per the segmentation classes as well as the sub categories. With Menzy’s Move2Earn; you can earn passively by just walking, running and participating in other real world sports and activities. This enables a whole new paradigm for wallets where a wallet can keep increasing total assets over time while still being used for all other utilities: ",
