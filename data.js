@@ -1,41 +1,40 @@
-const ActivePools = [
-{
-    id: 1,
-    tag: "active",
-    logo: "Logo",
-    tags: ["1st Phase", "41% complete"],
-    projectTitle: "Project 1",
-    projectDescription:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed doeiusmod tempor incididunt ut labore et dolore magna aliqua. Utenim ad minim",
-    minAllocation: "$10",
-    maxAllocation: "$10",
-    access: "Public",
-    totalRaised: "100234.45 ETH",
-      chain: 1442,
-       status: "Active",
-        dateOfCompletion: "18th july, 2023",
-        currentBalance: 87079007.22,
-        targetBalance: 87083333.33,
-        SLMAmount: "67079007.22/87083333.33 ETH",
-        percentage: "90.00%",
-        tokenDistribution: "24th Nov, 2023 (UTC + 1:00)",
-        tokenPrice: "1 Storm = 166.66 USDT",
-        tokenName: "Strom Token",
-        tokenSymbol: "$TORM",
-        tokenDecimal: "18",
-        tokenAddress: "0xCD1FfF5FcDE62bEFDc1a7E3Ddf6E166fA24f7B98", //projrct's token contract address
-        launchpadContract: "0x93C4a972b32Ec4a60F44614D62e04e76753e0b59",
-        tokenTotalSupply: "10,000,000,000",
-        aboutProject:
-            "Menzy is a passive move-to-earn project with additional features such as compete to earn and activity classification based on machine vision. These segments each contain reward mechanisms that grant users MNZ tokens once activated as per the segmentation classes as well as the sub categories. With Menzy’s Move2Earn; you can earn passively by just walking, running and participating in other real world sports and activities. This enables a whole new paradigm for wallets where a wallet can keep increasing total assets over time while still being used for all other utilities: ",
-        projectBenefits: [
-            "1) Showcase your skills and earn income in the form of MNZ Tokens by competing with other holders in different real world physical sports, games and activities. Menzy uses its AI based computer vision software that acts as a referee to assess your performance.",
-            "2) Ensure a healthy living by targeting your daily step count goals on the Menzy application and getting rewarded with MNZ tokens and unique digital assets for maintaining a healthy lifestyle.MENZY ECOSYSTEM",
-        ],
-        projectName: "MENZY ECOSYSTEM",
-    },
-
-];
+export const ActivePools = [
+    {
+      id: 1,
+      tag: "active",
+      logo: "Logo",
+      tags: ["1st Phase", "41% complete"],
+      projectTitle: "Project 1",
+      projectDescription:
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed doeiusmod tempor incididunt ut labore et dolore magna aliqua. Utenim ad minim",
+      minAllocation: "10",
+      maxAllocation: "10",
+      access: "Public",
+      totalRaised: "100234.45 ETH",
+      chain: 91002,
+      status: "Active",
+      dateOfCompletion: "July 21th, 2023 5:12:37 AM GMT-07:00 DST",
+      currentBalance: 87079007.22,
+      targetBalance: 87083333.33,
+      SLMAmount: "67079007.22/87083333.33 ZBC",
+      percentage: "90.00%",
+      tokenDistribution: "24th Nov, 2023 (UTC + 1:00)",
+      tokenPrice: "1 Ido = 0.0003 USDT",
+      tokenName: "Ido Token",
+      tokenSymbol: "IDT",
+      tokenDecimal: "18",
+      tokenAddress: "0xc0a8CF930aCf8a0B5F4800B7f3C1121ad103BbBD", //projrct's token contract address
+      launchpadContract: "0x929b6543a6Acd3467006ef2aAA35C0C8D3C15611",
+      tokenTotalSupply: "1,000,000,000",
+      aboutProject:
+        "$Storm is a passive move-to-earn project with additional features such as compete to earn and activity classification based on machine vision. These segments each contain reward mechanisms that grant users MNZ tokens once activated as per the segmentation classes as well as the sub categories. With Menzy’s Move2Earn; you can earn passively by just walking, running and participating in other real world sports and activities. This enables a whole new paradigm for wallets where a wallet can keep increasing total assets over time while still being used for all other utilities: ",
+      projectBenefits: [
+        "1) Showcase your skills and earn income in the form of MNZ Tokens by competing with other holders in different real world physical sports, games and activities. Menzy uses its AI based computer vision software that acts as a referee to assess your performance.",
+        "2) Ensure a healthy living by targeting your daily step count goals on the Menzy application and getting rewarded with MNZ tokens and unique digital assets for maintaining a healthy lifestyle.",
+    
+    ],
+}
+]
 
 const UpcomingPools = [
        {
