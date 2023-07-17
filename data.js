@@ -7,8 +7,8 @@ export const ActivePools = [
       projectTitle: "Project 1",
       projectDescription:
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed doeiusmod tempor incididunt ut labore et dolore magna aliqua. Utenim ad minim",
-      minAllocation: "10",
-      maxAllocation: "10",
+      minAllocation: 10,
+      maxAllocation: 1000,
       access: "Public",
       totalRaised: "100234.45 ETH",
       chain: 80001,
