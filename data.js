@@ -11,7 +11,7 @@ export const ActivePools = [
       maxAllocation: "10",
       access: "Public",
       totalRaised: "100234.45 ETH",
-      chain: 91002,
+      chain: 80001,
       status: "Active",
       dateOfCompletion: "July 21th, 2023 5:12:37 AM GMT-07:00 DST",
       currentBalance: 87079007.22,
@@ -21,19 +21,18 @@ export const ActivePools = [
       tokenDistribution: "24th Nov, 2023 (UTC + 1:00)",
       tokenPrice: "1 Ido = 0.0003 USDT",
       tokenName: "Ido Token",
-      tokenSymbol: "IDT",
+      tokenSymbol: "IDO",
       tokenDecimal: "18",
-      tokenAddress: "0xc0a8CF930aCf8a0B5F4800B7f3C1121ad103BbBD", //projrct's token contract address
-      launchpadContract: "0x929b6543a6Acd3467006ef2aAA35C0C8D3C15611",
-      tokenTotalSupply: "1,000,000,000",
+      tokenAddress: "0x1B9c85E5BEDE75Ec7aC800A457B65E8E68b8C6c6", //projrct's token contract address
+      launchpadContract: "0xF696A8658BC425469D157b98024Ee347B869C24F",
+      tokenTotalSupply: "100,000,000",
       aboutProject:
         "$Storm is a passive move-to-earn project with additional features such as compete to earn and activity classification based on machine vision. These segments each contain reward mechanisms that grant users MNZ tokens once activated as per the segmentation classes as well as the sub categories. With Menzy’s Move2Earn; you can earn passively by just walking, running and participating in other real world sports and activities. This enables a whole new paradigm for wallets where a wallet can keep increasing total assets over time while still being used for all other utilities: ",
       projectBenefits: [
         "1) Showcase your skills and earn income in the form of MNZ Tokens by competing with other holders in different real world physical sports, games and activities. Menzy uses its AI based computer vision software that acts as a referee to assess your performance.",
         "2) Ensure a healthy living by targeting your daily step count goals on the Menzy application and getting rewarded with MNZ tokens and unique digital assets for maintaining a healthy lifestyle.",
-    
-    ],
-}
+      ],
+    }
 ]
 
 const UpcomingPools = [
