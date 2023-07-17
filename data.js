@@ -1,6 +1,18 @@
 const ActivePools = [
 {
-
+    id: 1,
+    tag: "active",
+    logo: "Logo",
+    tags: ["1st Phase", "41% complete"],
+    projectTitle: "Project 1",
+    projectDescription:
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed doeiusmod tempor incididunt ut labore et dolore magna aliqua. Utenim ad minim",
+    minAllocation: "$10",
+    maxAllocation: "$10",
+    access: "Public",
+    totalRaised: "100234.45 ETH",
+      chain: 1442,
+       status: "Active",
         dateOfCompletion: "18th july, 2023",
         currentBalance: 87079007.22,
         targetBalance: 87083333.33,
